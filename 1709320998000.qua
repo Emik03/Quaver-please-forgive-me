@@ -25,8 +25,6 @@ EditorLayers:
   ColorRgb: 128,255,255
 - Name: crimson
   ColorRgb: 255,0,0
-- Name: hi-hat
-  ColorRgb: 196,196,196
 CustomAudioSamples: []
 SoundEffects: []
 TimingPoints:
