@@ -5867,7 +5867,8 @@ SliderVelocities:
 - StartTime: 48109.984375
   Multiplier: 10334.125
 - StartTime: 48110
-  Multiplier: 1
+  Multiplier: 15984
+- StartTime: 48110.015625
 - StartTime: 48443
 - StartTime: 48443.015625
 - StartTime: 48463.875
@@ -16073,9 +16074,9 @@ SliderVelocities:
 - StartTime: 129244.75
   Multiplier: -0.375
 - StartTime: 129275.984375
-  Multiplier: 40999.625
+  Multiplier: 15399.625
 - StartTime: 129276
-  Multiplier: 5.375
+  Multiplier: 25605.375
 - StartTime: 129276.015625
   Multiplier: 5.375
 - StartTime: 129286.4140625
@@ -16243,7 +16244,7 @@ SliderVelocities:
 - StartTime: 130109.984375
   Multiplier: 6346.375
 - StartTime: 130110
-  Multiplier: -5.375
+  Multiplier: 686522.625
 - StartTime: 130110.015625
   Multiplier: -5.375
 - StartTime: 130151.625
@@ -16277,9 +16278,9 @@ SliderVelocities:
 - StartTime: 130734.375
   Multiplier: -0.375
 - StartTime: 130775.984375
-  Multiplier: 67411.625
+  Multiplier: 16211.625
 - StartTime: 130776
-  Multiplier: -12794.625
+  Multiplier: 38405.375
 - StartTime: 130776.015625
   Multiplier: 5.375
 - StartTime: 130786.4375
@@ -23828,11 +23829,6 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 6
-- StartTime: 69943
-  Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 70110
   Lane: 2
   HitSound: Normal, Clap
