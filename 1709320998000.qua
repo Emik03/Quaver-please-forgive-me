@@ -27092,7 +27092,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 77443
-  Lane: 1
+  Lane: 4
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
@@ -27215,17 +27215,17 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 81276
-  Lane: 3
+  Lane: 4
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
 - StartTime: 81276
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
 - StartTime: 81443
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
