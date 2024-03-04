@@ -27591,7 +27591,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 5
 - StartTime: 85443
-  Lane: 4
+  Lane: 2
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
