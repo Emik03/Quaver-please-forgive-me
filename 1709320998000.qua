@@ -27135,12 +27135,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 70610
-  Lane: 3
+  Lane: 4
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
 - StartTime: 70610
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
@@ -27240,37 +27240,32 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 75943
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
 - StartTime: 75943
-  Lane: 3
-  HitSound: Normal, Finish
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 76276
-  Lane: 1
-  HitSound: Normal, Whistle
-  KeySounds: []
-  EditorLayer: 5
-- StartTime: 76443
-  Lane: 3
+  Lane: 4
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
 - StartTime: 76443
-  Lane: 2
+  Lane: 4
+  HitSound: Normal, Finish
+  KeySounds: []
+  EditorLayer: 2
+- StartTime: 76443
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
 - StartTime: 76610
-  Lane: 4
+  Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
 - StartTime: 76776
-  Lane: 1
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
@@ -27297,22 +27292,22 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 77443
-  Lane: 1
+  Lane: 3
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
 - StartTime: 77776
   Lane: 3
-  HitSound: Normal, Whistle
+  HitSound: Whistle
   KeySounds: []
   EditorLayer: 5
 - StartTime: 77943
-  Lane: 2
+  Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
 - StartTime: 78110
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
@@ -27323,7 +27318,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 78776
-  Lane: 2
+  Lane: 1
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
@@ -27333,12 +27328,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 5
 - StartTime: 79110
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
 - StartTime: 79276
-  Lane: 1
+  Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
@@ -27348,7 +27343,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 79443
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
@@ -27419,33 +27414,28 @@ HitObjects:
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
-- StartTime: 81610
-  Lane: 1
-  HitSound: Normal, Whistle
-  KeySounds: []
-  EditorLayer: 5
 - StartTime: 81776
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
 - StartTime: 81776
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
 - StartTime: 81943
-  Lane: 2
+  Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
 - StartTime: 82110
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 82110
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
@@ -27796,8 +27786,8 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 128110
-  Lane: 4
-  EndTime: 128276
+  Lane: 1
+  EndTime: 129276
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 6
@@ -27883,7 +27873,7 @@ HitObjects:
   EditorLayer: 2
 - StartTime: 133443
   Lane: 4
-  EndTime: 133610
+  EndTime: 134610
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 6
@@ -28363,8 +28353,8 @@ HitObjects:
   KeySounds: []
   EditorLayer: 5
 - StartTime: 149443
-  Lane: 4
-  EndTime: 149610
+  Lane: 2
+  EndTime: 150776
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 6
@@ -28374,12 +28364,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 150110
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 150776
-  Lane: 2
+  Lane: 1
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
@@ -28389,7 +28379,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
 - StartTime: 151221
-  Lane: 1
+  Lane: 2
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
@@ -28464,13 +28454,13 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
 - StartTime: 154776
-  Lane: 4
-  EndTime: 154943
+  Lane: 3
+  EndTime: 155943
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 6
 - StartTime: 155276
-  Lane: 3
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
@@ -28581,11 +28571,6 @@ HitObjects:
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
-- StartTime: 161610
-  Lane: 1
-  HitSound: Normal, Whistle
-  KeySounds: []
-  EditorLayer: 5
 - StartTime: 161776
   Lane: 3
   HitSound: Normal, Finish
@@ -28634,7 +28619,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
 - StartTime: 163110
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
@@ -28675,7 +28660,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 5
 - StartTime: 164443
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
@@ -28690,22 +28675,22 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 164776
-  Lane: 1
-  HitSound: Normal, Whistle
-  KeySounds: []
-  EditorLayer: 5
-- StartTime: 164943
-  Lane: 2
-  HitSound: Normal, Finish
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 164943
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
-- StartTime: 165110
+- StartTime: 164943
   Lane: 1
+  HitSound: Normal, Finish
+  KeySounds: []
+  EditorLayer: 2
+- StartTime: 164943
+  Lane: 2
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 5
+- StartTime: 165110
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
@@ -28715,7 +28700,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 165276
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
@@ -28752,15 +28737,10 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 166610
-  Lane: 3
+  Lane: 4
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
-- StartTime: 166943
-  Lane: 1
-  HitSound: Normal, Whistle
-  KeySounds: []
-  EditorLayer: 5
 - StartTime: 167110
   Lane: 3
   HitSound: Normal, Finish
