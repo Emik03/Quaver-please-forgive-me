@@ -18781,6 +18781,8 @@ SliderVelocities:
 - StartTime: 126765.59375
   Multiplier: 0.059999998658895493
 - StartTime: 126776
+  Multiplier: 686523
+- StartTime: 126776.015625
   Multiplier: -5
 - StartTime: 126796.84375
   Multiplier: -5.9318829026961924E-16
@@ -28909,25 +28911,25 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 170735
   Lane: 2
-  EndTime: 175985
+  EndTime: 176128
   HitSound: Finish
   KeySounds: []
   EditorLayer: 2
 - StartTime: 170735
   Lane: 1
-  EndTime: 176110
+  EndTime: 176086
   HitSound: Finish
   KeySounds: []
   EditorLayer: 2
 - StartTime: 170776
   Lane: 3
-  EndTime: 176026
+  EndTime: 176169
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 6
 - StartTime: 170776
   Lane: 4
-  EndTime: 176068
+  EndTime: 176211
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 6
