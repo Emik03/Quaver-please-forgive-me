@@ -2853,6 +2853,8 @@ TimingPoints:
   Bpm: 90
 - StartTime: 84110
   Bpm: 90
+- StartTime: 85443.3359375
+  Bpm: 90
 - StartTime: 160443
   Bpm: 90
 - StartTime: 160448.203125
@@ -3175,172 +3177,6 @@ TimingPoints:
   Bpm: 90
 - StartTime: 161276
   Bpm: 90
-- StartTime: 161286.421875
-  Bpm: 90
-- StartTime: 161296.828125
-  Bpm: 90
-- StartTime: 161307.25
-  Bpm: 90
-- StartTime: 161317.671875
-  Bpm: 90
-- StartTime: 161328.078125
-  Bpm: 90
-- StartTime: 161338.5
-  Bpm: 90
-- StartTime: 161348.921875
-  Bpm: 90
-- StartTime: 161359.328125
-  Bpm: 90
-- StartTime: 161369.75
-  Bpm: 90
-- StartTime: 161380.171875
-  Bpm: 90
-- StartTime: 161390.578125
-  Bpm: 90
-- StartTime: 161401
-  Bpm: 90
-- StartTime: 161411.421875
-  Bpm: 90
-- StartTime: 161421.828125
-  Bpm: 90
-- StartTime: 161432.25
-  Bpm: 90
-- StartTime: 161442.671875
-  Bpm: 90
-- StartTime: 161453.078125
-  Bpm: 90
-- StartTime: 161463.5
-  Bpm: 90
-- StartTime: 161473.921875
-  Bpm: 90
-- StartTime: 161484.328125
-  Bpm: 90
-- StartTime: 161494.75
-  Bpm: 90
-- StartTime: 161505.171875
-  Bpm: 90
-- StartTime: 161515.578125
-  Bpm: 90
-- StartTime: 161526
-  Bpm: 90
-- StartTime: 161536.421875
-  Bpm: 90
-- StartTime: 161546.828125
-  Bpm: 90
-- StartTime: 161557.25
-  Bpm: 90
-- StartTime: 161567.671875
-  Bpm: 90
-- StartTime: 161578.078125
-  Bpm: 90
-- StartTime: 161588.5
-  Bpm: 90
-- StartTime: 161598.921875
-  Bpm: 90
-- StartTime: 161609.328125
-  Bpm: 90
-- StartTime: 161619.75
-  Bpm: 90
-- StartTime: 161630.171875
-  Bpm: 90
-- StartTime: 161640.578125
-  Bpm: 90
-- StartTime: 161651
-  Bpm: 90
-- StartTime: 161661.421875
-  Bpm: 90
-- StartTime: 161671.828125
-  Bpm: 90
-- StartTime: 161682.25
-  Bpm: 90
-- StartTime: 161692.671875
-  Bpm: 90
-- StartTime: 161703.078125
-  Bpm: 90
-- StartTime: 161713.5
-  Bpm: 90
-- StartTime: 161723.921875
-  Bpm: 90
-- StartTime: 161734.328125
-  Bpm: 90
-- StartTime: 161744.75
-  Bpm: 90
-- StartTime: 161755.171875
-  Bpm: 90
-- StartTime: 161765.578125
-  Bpm: 90
-- StartTime: 161776
-  Bpm: 90
-- StartTime: 161776.015625
-  Bpm: 90
-- StartTime: 161786.4375
-  Bpm: 90
-- StartTime: 161796.875
-  Bpm: 90
-- StartTime: 161807.3125
-  Bpm: 90
-- StartTime: 161817.75
-  Bpm: 90
-- StartTime: 161828.1875
-  Bpm: 90
-- StartTime: 161838.625
-  Bpm: 90
-- StartTime: 161849.0625
-  Bpm: 90
-- StartTime: 161859.5
-  Bpm: 90
-- StartTime: 161869.9375
-  Bpm: 90
-- StartTime: 161880.375
-  Bpm: 90
-- StartTime: 161890.8125
-  Bpm: 90
-- StartTime: 161901.25
-  Bpm: 90
-- StartTime: 161911.6875
-  Bpm: 90
-- StartTime: 161922.125
-  Bpm: 90
-- StartTime: 161932.5625
-  Bpm: 90
-- StartTime: 161942.984375
-  Bpm: 90
-- StartTime: 161943
-  Bpm: 90
-- StartTime: 161943.015625
-  Bpm: 90
-- StartTime: 161953.4375
-  Bpm: 90
-- StartTime: 161963.875
-  Bpm: 90
-- StartTime: 161974.3125
-  Bpm: 90
-- StartTime: 161984.75
-  Bpm: 90
-- StartTime: 161995.1875
-  Bpm: 90
-- StartTime: 162005.625
-  Bpm: 90
-- StartTime: 162016.0625
-  Bpm: 90
-- StartTime: 162026.5
-  Bpm: 90
-- StartTime: 162036.9375
-  Bpm: 90
-- StartTime: 162047.375
-  Bpm: 90
-- StartTime: 162057.8125
-  Bpm: 90
-- StartTime: 162068.25
-  Bpm: 90
-- StartTime: 162078.6875
-  Bpm: 90
-- StartTime: 162089.125
-  Bpm: 90
-- StartTime: 162099.5625
-  Bpm: 90
-- StartTime: 162109.984375
-  Bpm: 90
 - StartTime: 162110
   Bpm: 90
 - StartTime: 162115.203125
@@ -3601,66 +3437,6 @@ TimingPoints:
   Bpm: 90
 - StartTime: 162776.015625
   Bpm: 90
-- StartTime: 162943
-  Bpm: 90
-- StartTime: 162943.015625
-  Bpm: 90
-- StartTime: 162963.875
-  Bpm: 90
-- StartTime: 162984.75
-  Bpm: 90
-- StartTime: 163005.625
-  Bpm: 90
-- StartTime: 163026.5
-  Bpm: 90
-- StartTime: 163047.375
-  Bpm: 90
-- StartTime: 163068.25
-  Bpm: 90
-- StartTime: 163089.125
-  Bpm: 90
-- StartTime: 163109.984375
-  Bpm: 90
-- StartTime: 163110
-  Bpm: 90
-- StartTime: 163110.015625
-  Bpm: 90
-- StartTime: 163130.75
-  Bpm: 90
-- StartTime: 163151.5
-  Bpm: 90
-- StartTime: 163172.25
-  Bpm: 90
-- StartTime: 163193
-  Bpm: 90
-- StartTime: 163213.75
-  Bpm: 90
-- StartTime: 163234.5
-  Bpm: 90
-- StartTime: 163255.25
-  Bpm: 90
-- StartTime: 163275.984375
-  Bpm: 90
-- StartTime: 163276
-  Bpm: 90
-- StartTime: 163276.015625
-  Bpm: 90
-- StartTime: 163296.875
-  Bpm: 90
-- StartTime: 163317.75
-  Bpm: 90
-- StartTime: 163338.625
-  Bpm: 90
-- StartTime: 163359.5
-  Bpm: 90
-- StartTime: 163380.375
-  Bpm: 90
-- StartTime: 163401.25
-  Bpm: 90
-- StartTime: 163422.125
-  Bpm: 90
-- StartTime: 163442.984375
-  Bpm: 90
 - StartTime: 163443
   Bpm: 90
 - StartTime: 163448.21875
@@ -3918,240 +3694,6 @@ TimingPoints:
 - StartTime: 164104.78125
   Bpm: 90
 - StartTime: 164110
-  Bpm: 90
-- StartTime: 164120.40625
-  Bpm: 90
-- StartTime: 164130.8125
-  Bpm: 90
-- StartTime: 164141.21875
-  Bpm: 90
-- StartTime: 164151.625
-  Bpm: 90
-- StartTime: 164162.03125
-  Bpm: 90
-- StartTime: 164172.4375
-  Bpm: 90
-- StartTime: 164182.84375
-  Bpm: 90
-- StartTime: 164193.25
-  Bpm: 90
-- StartTime: 164203.65625
-  Bpm: 90
-- StartTime: 164214.0625
-  Bpm: 90
-- StartTime: 164224.46875
-  Bpm: 90
-- StartTime: 164234.875
-  Bpm: 90
-- StartTime: 164245.28125
-  Bpm: 90
-- StartTime: 164255.6875
-  Bpm: 90
-- StartTime: 164266.09375
-  Bpm: 90
-- StartTime: 164276.5
-  Bpm: 90
-- StartTime: 164286.90625
-  Bpm: 90
-- StartTime: 164297.3125
-  Bpm: 90
-- StartTime: 164307.71875
-  Bpm: 90
-- StartTime: 164318.125
-  Bpm: 90
-- StartTime: 164328.53125
-  Bpm: 90
-- StartTime: 164338.9375
-  Bpm: 90
-- StartTime: 164349.34375
-  Bpm: 90
-- StartTime: 164359.75
-  Bpm: 90
-- StartTime: 164370.15625
-  Bpm: 90
-- StartTime: 164380.5625
-  Bpm: 90
-- StartTime: 164390.96875
-  Bpm: 90
-- StartTime: 164401.375
-  Bpm: 90
-- StartTime: 164411.78125
-  Bpm: 90
-- StartTime: 164422.1875
-  Bpm: 90
-- StartTime: 164432.59375
-  Bpm: 90
-- StartTime: 164443
-  Bpm: 90
-- StartTime: 164453.40625
-  Bpm: 90
-- StartTime: 164463.8125
-  Bpm: 90
-- StartTime: 164474.21875
-  Bpm: 90
-- StartTime: 164484.625
-  Bpm: 90
-- StartTime: 164495.03125
-  Bpm: 90
-- StartTime: 164505.4375
-  Bpm: 90
-- StartTime: 164515.84375
-  Bpm: 90
-- StartTime: 164526.25
-  Bpm: 90
-- StartTime: 164536.65625
-  Bpm: 90
-- StartTime: 164547.0625
-  Bpm: 90
-- StartTime: 164557.46875
-  Bpm: 90
-- StartTime: 164567.875
-  Bpm: 90
-- StartTime: 164578.28125
-  Bpm: 90
-- StartTime: 164588.6875
-  Bpm: 90
-- StartTime: 164599.09375
-  Bpm: 90
-- StartTime: 164609.5
-  Bpm: 90
-- StartTime: 164619.90625
-  Bpm: 90
-- StartTime: 164630.3125
-  Bpm: 90
-- StartTime: 164640.71875
-  Bpm: 90
-- StartTime: 164651.125
-  Bpm: 90
-- StartTime: 164661.53125
-  Bpm: 90
-- StartTime: 164671.9375
-  Bpm: 90
-- StartTime: 164682.34375
-  Bpm: 90
-- StartTime: 164692.75
-  Bpm: 90
-- StartTime: 164703.15625
-  Bpm: 90
-- StartTime: 164713.5625
-  Bpm: 90
-- StartTime: 164723.96875
-  Bpm: 90
-- StartTime: 164734.375
-  Bpm: 90
-- StartTime: 164744.78125
-  Bpm: 90
-- StartTime: 164755.1875
-  Bpm: 90
-- StartTime: 164765.59375
-  Bpm: 90
-- StartTime: 164776
-  Bpm: 90
-- StartTime: 164776.015625
-  Bpm: 90
-- StartTime: 164796.875
-  Bpm: 90
-- StartTime: 164817.75
-  Bpm: 90
-- StartTime: 164838.625
-  Bpm: 90
-- StartTime: 164859.5
-  Bpm: 90
-- StartTime: 164880.375
-  Bpm: 90
-- StartTime: 164901.25
-  Bpm: 90
-- StartTime: 164922.125
-  Bpm: 90
-- StartTime: 164942.984375
-  Bpm: 90
-- StartTime: 164943
-  Bpm: 90
-- StartTime: 164953.421875
-  Bpm: 90
-- StartTime: 164963.828125
-  Bpm: 90
-- StartTime: 164974.25
-  Bpm: 90
-- StartTime: 164984.671875
-  Bpm: 90
-- StartTime: 164995.078125
-  Bpm: 90
-- StartTime: 165005.5
-  Bpm: 90
-- StartTime: 165015.921875
-  Bpm: 90
-- StartTime: 165026.328125
-  Bpm: 90
-- StartTime: 165036.75
-  Bpm: 90
-- StartTime: 165047.171875
-  Bpm: 90
-- StartTime: 165057.578125
-  Bpm: 90
-- StartTime: 165068
-  Bpm: 90
-- StartTime: 165078.421875
-  Bpm: 90
-- StartTime: 165088.828125
-  Bpm: 90
-- StartTime: 165099.25
-  Bpm: 90
-- StartTime: 165109.671875
-  Bpm: 90
-- StartTime: 165120.078125
-  Bpm: 90
-- StartTime: 165130.5
-  Bpm: 90
-- StartTime: 165140.921875
-  Bpm: 90
-- StartTime: 165151.328125
-  Bpm: 90
-- StartTime: 165161.75
-  Bpm: 90
-- StartTime: 165172.171875
-  Bpm: 90
-- StartTime: 165182.578125
-  Bpm: 90
-- StartTime: 165193
-  Bpm: 90
-- StartTime: 165203.421875
-  Bpm: 90
-- StartTime: 165213.828125
-  Bpm: 90
-- StartTime: 165224.25
-  Bpm: 90
-- StartTime: 165234.671875
-  Bpm: 90
-- StartTime: 165245.078125
-  Bpm: 90
-- StartTime: 165255.5
-  Bpm: 90
-- StartTime: 165265.921875
-  Bpm: 90
-- StartTime: 165276
-  Bpm: 90
-- StartTime: 165276.015625
-  Bpm: 90
-- StartTime: 165296.875
-  Bpm: 90
-- StartTime: 165317.75
-  Bpm: 90
-- StartTime: 165338.625
-  Bpm: 90
-- StartTime: 165359.5
-  Bpm: 90
-- StartTime: 165380.375
-  Bpm: 90
-- StartTime: 165401.25
-  Bpm: 90
-- StartTime: 165422.125
-  Bpm: 90
-- StartTime: 165442.984375
-  Bpm: 90
-- StartTime: 165443
-  Bpm: 90
-- StartTime: 165443.015625
   Bpm: 90
 - StartTime: 165776
   Bpm: 90
@@ -4475,174 +4017,6 @@ TimingPoints:
   Bpm: 90
 - StartTime: 166610
   Bpm: 90
-- StartTime: 166620.421875
-  Bpm: 90
-- StartTime: 166630.828125
-  Bpm: 90
-- StartTime: 166641.25
-  Bpm: 90
-- StartTime: 166651.671875
-  Bpm: 90
-- StartTime: 166662.078125
-  Bpm: 90
-- StartTime: 166672.5
-  Bpm: 90
-- StartTime: 166682.921875
-  Bpm: 90
-- StartTime: 166693.328125
-  Bpm: 90
-- StartTime: 166703.75
-  Bpm: 90
-- StartTime: 166714.171875
-  Bpm: 90
-- StartTime: 166724.578125
-  Bpm: 90
-- StartTime: 166735
-  Bpm: 90
-- StartTime: 166745.421875
-  Bpm: 90
-- StartTime: 166755.828125
-  Bpm: 90
-- StartTime: 166766.25
-  Bpm: 90
-- StartTime: 166776.671875
-  Bpm: 90
-- StartTime: 166787.078125
-  Bpm: 90
-- StartTime: 166797.5
-  Bpm: 90
-- StartTime: 166807.921875
-  Bpm: 90
-- StartTime: 166818.328125
-  Bpm: 90
-- StartTime: 166828.75
-  Bpm: 90
-- StartTime: 166839.171875
-  Bpm: 90
-- StartTime: 166849.578125
-  Bpm: 90
-- StartTime: 166860
-  Bpm: 90
-- StartTime: 166870.421875
-  Bpm: 90
-- StartTime: 166880.828125
-  Bpm: 90
-- StartTime: 166891.25
-  Bpm: 90
-- StartTime: 166901.671875
-  Bpm: 90
-- StartTime: 166912.078125
-  Bpm: 90
-- StartTime: 166922.5
-  Bpm: 90
-- StartTime: 166932.921875
-  Bpm: 90
-- StartTime: 166943.328125
-  Bpm: 90
-- StartTime: 166953.75
-  Bpm: 90
-- StartTime: 166964.171875
-  Bpm: 90
-- StartTime: 166974.578125
-  Bpm: 90
-- StartTime: 166985
-  Bpm: 90
-- StartTime: 166995.421875
-  Bpm: 90
-- StartTime: 167005.828125
-  Bpm: 90
-- StartTime: 167016.25
-  Bpm: 90
-- StartTime: 167026.671875
-  Bpm: 90
-- StartTime: 167037.078125
-  Bpm: 90
-- StartTime: 167047.5
-  Bpm: 90
-- StartTime: 167057.921875
-  Bpm: 90
-- StartTime: 167068.328125
-  Bpm: 90
-- StartTime: 167078.75
-  Bpm: 90
-- StartTime: 167089.171875
-  Bpm: 90
-- StartTime: 167099.578125
-  Bpm: 90
-- StartTime: 167110
-  Bpm: 90
-- StartTime: 167110.015625
-  Bpm: 90
-- StartTime: 167120.40625
-  Bpm: 90
-- StartTime: 167130.8125
-  Bpm: 90
-- StartTime: 167141.21875
-  Bpm: 90
-- StartTime: 167151.625
-  Bpm: 90
-- StartTime: 167162.03125
-  Bpm: 90
-- StartTime: 167172.4375
-  Bpm: 90
-- StartTime: 167182.84375
-  Bpm: 90
-- StartTime: 167193.25
-  Bpm: 90
-- StartTime: 167203.65625
-  Bpm: 90
-- StartTime: 167214.0625
-  Bpm: 90
-- StartTime: 167224.46875
-  Bpm: 90
-- StartTime: 167234.875
-  Bpm: 90
-- StartTime: 167245.28125
-  Bpm: 90
-- StartTime: 167255.6875
-  Bpm: 90
-- StartTime: 167266.09375
-  Bpm: 90
-- StartTime: 167275.984375
-  Bpm: 90
-- StartTime: 167276
-  Bpm: 90
-- StartTime: 167276.015625
-  Bpm: 90
-- StartTime: 167276.5
-  Bpm: 90
-- StartTime: 167286.90625
-  Bpm: 90
-- StartTime: 167297.3125
-  Bpm: 90
-- StartTime: 167307.71875
-  Bpm: 90
-- StartTime: 167318.125
-  Bpm: 90
-- StartTime: 167328.53125
-  Bpm: 90
-- StartTime: 167338.9375
-  Bpm: 90
-- StartTime: 167349.34375
-  Bpm: 90
-- StartTime: 167359.75
-  Bpm: 90
-- StartTime: 167370.15625
-  Bpm: 90
-- StartTime: 167380.5625
-  Bpm: 90
-- StartTime: 167390.96875
-  Bpm: 90
-- StartTime: 167401.375
-  Bpm: 90
-- StartTime: 167411.78125
-  Bpm: 90
-- StartTime: 167422.1875
-  Bpm: 90
-- StartTime: 167432.59375
-  Bpm: 90
-- StartTime: 167442.984375
-  Bpm: 90
 - StartTime: 167443
   Bpm: 90
 - StartTime: 167453.4375
@@ -4679,20 +4053,6 @@ TimingPoints:
   Bpm: 90
 - StartTime: 167610.015625
   Bpm: 90
-- StartTime: 167630.75
-  Bpm: 90
-- StartTime: 167651.5
-  Bpm: 90
-- StartTime: 167672.25
-  Bpm: 90
-- StartTime: 167693
-  Bpm: 90
-- StartTime: 167713.75
-  Bpm: 90
-- StartTime: 167734.5
-  Bpm: 90
-- StartTime: 167755.25
-  Bpm: 90
 - StartTime: 167775.984375
   Bpm: 90
 - StartTime: 167776
@@ -4728,32 +4088,6 @@ TimingPoints:
 - StartTime: 167932.5625
   Bpm: 90
 - StartTime: 167943
-  Bpm: 90
-- StartTime: 167943.015625
-  Bpm: 90
-- StartTime: 167963.875
-  Bpm: 90
-- StartTime: 167984.75
-  Bpm: 90
-- StartTime: 168005.625
-  Bpm: 90
-- StartTime: 168026.5
-  Bpm: 90
-- StartTime: 168047.375
-  Bpm: 90
-- StartTime: 168068.25
-  Bpm: 90
-- StartTime: 168089.125
-  Bpm: 90
-- StartTime: 168109.984375
-  Bpm: 90
-- StartTime: 168110
-  Bpm: 90
-- StartTime: 168110.015625
-  Bpm: 90
-- StartTime: 168276
-  Bpm: 90
-- StartTime: 168276.015625
   Bpm: 90
 - StartTime: 168442.984375
   Bpm: 90
@@ -5055,274 +4389,7 @@ TimingPoints:
   Bpm: 90
 - StartTime: 169443
   Bpm: 90
-- StartTime: 169443.015625
-  Bpm: 90
-- StartTime: 169453.40625
-  Bpm: 90
-- StartTime: 169463.8125
-  Bpm: 90
-- StartTime: 169474.21875
-  Bpm: 90
-- StartTime: 169484.625
-  Bpm: 90
-- StartTime: 169495.03125
-  Bpm: 90
-- StartTime: 169505.4375
-  Bpm: 90
-- StartTime: 169515.84375
-  Bpm: 90
-- StartTime: 169526.25
-  Bpm: 90
-- StartTime: 169536.65625
-  Bpm: 90
-- StartTime: 169547.0625
-  Bpm: 90
-- StartTime: 169557.46875
-  Bpm: 90
-- StartTime: 169567.875
-  Bpm: 90
-- StartTime: 169578.28125
-  Bpm: 90
-- StartTime: 169588.6875
-  Bpm: 90
-- StartTime: 169599.09375
-  Bpm: 90
-- StartTime: 169609.5
-  Bpm: 90
-- StartTime: 169609.984375
-  Bpm: 90
-- StartTime: 169610
-  Bpm: 90
-- StartTime: 169610.015625
-  Bpm: 90
-- StartTime: 169619.90625
-  Bpm: 90
-- StartTime: 169630.3125
-  Bpm: 90
-- StartTime: 169640.71875
-  Bpm: 90
-- StartTime: 169651.125
-  Bpm: 90
-- StartTime: 169661.53125
-  Bpm: 90
-- StartTime: 169671.9375
-  Bpm: 90
-- StartTime: 169682.34375
-  Bpm: 90
-- StartTime: 169692.75
-  Bpm: 90
-- StartTime: 169703.15625
-  Bpm: 90
-- StartTime: 169713.5625
-  Bpm: 90
-- StartTime: 169723.96875
-  Bpm: 90
-- StartTime: 169734.375
-  Bpm: 90
-- StartTime: 169744.78125
-  Bpm: 90
-- StartTime: 169755.1875
-  Bpm: 90
-- StartTime: 169765.59375
-  Bpm: 90
-- StartTime: 169775.984375
-  Bpm: 90
-- StartTime: 169776
-  Bpm: 90
-- StartTime: 169776.015625
-  Bpm: 90
-- StartTime: 169786.4375
-  Bpm: 90
-- StartTime: 169796.875
-  Bpm: 90
-- StartTime: 169807.3125
-  Bpm: 90
-- StartTime: 169817.75
-  Bpm: 90
-- StartTime: 169828.1875
-  Bpm: 90
-- StartTime: 169838.625
-  Bpm: 90
-- StartTime: 169849.0625
-  Bpm: 90
-- StartTime: 169859.5
-  Bpm: 90
-- StartTime: 169869.9375
-  Bpm: 90
-- StartTime: 169880.375
-  Bpm: 90
-- StartTime: 169890.8125
-  Bpm: 90
-- StartTime: 169901.25
-  Bpm: 90
-- StartTime: 169911.6875
-  Bpm: 90
-- StartTime: 169922.125
-  Bpm: 90
-- StartTime: 169932.5625
-  Bpm: 90
-- StartTime: 169942.984375
-  Bpm: 90
-- StartTime: 169943
-  Bpm: 90
-- StartTime: 169943.015625
-  Bpm: 90
-- StartTime: 169953.4375
-  Bpm: 90
-- StartTime: 169963.875
-  Bpm: 90
-- StartTime: 169974.3125
-  Bpm: 90
-- StartTime: 169984.75
-  Bpm: 90
-- StartTime: 169995.1875
-  Bpm: 90
-- StartTime: 170005.625
-  Bpm: 90
-- StartTime: 170016.0625
-  Bpm: 90
-- StartTime: 170026.5
-  Bpm: 90
-- StartTime: 170036.9375
-  Bpm: 90
-- StartTime: 170047.375
-  Bpm: 90
-- StartTime: 170057.8125
-  Bpm: 90
-- StartTime: 170068.25
-  Bpm: 90
-- StartTime: 170078.6875
-  Bpm: 90
-- StartTime: 170089.125
-  Bpm: 90
-- StartTime: 170099.5625
-  Bpm: 90
-- StartTime: 170109.984375
-  Bpm: 90
-- StartTime: 170110
-  Bpm: 90
-- StartTime: 170110.015625
-  Bpm: 90
-- StartTime: 170130.75
-  Bpm: 90
-- StartTime: 170151.5
-  Bpm: 90
-- StartTime: 170172.25
-  Bpm: 90
-- StartTime: 170193
-  Bpm: 90
-- StartTime: 170213.75
-  Bpm: 90
-- StartTime: 170234.5
-  Bpm: 90
-- StartTime: 170255.25
-  Bpm: 90
-- StartTime: 170275.984375
-  Bpm: 90
-- StartTime: 170276
-  Bpm: 90
-- StartTime: 170276.015625
-  Bpm: 90
-- StartTime: 170276.5
-  Bpm: 90
-- StartTime: 170286.90625
-  Bpm: 90
-- StartTime: 170297.3125
-  Bpm: 90
-- StartTime: 170307.71875
-  Bpm: 90
-- StartTime: 170318.125
-  Bpm: 90
-- StartTime: 170328.53125
-  Bpm: 90
-- StartTime: 170338.9375
-  Bpm: 90
-- StartTime: 170349.34375
-  Bpm: 90
-- StartTime: 170359.75
-  Bpm: 90
-- StartTime: 170370.15625
-  Bpm: 90
-- StartTime: 170380.5625
-  Bpm: 90
-- StartTime: 170390.96875
-  Bpm: 90
-- StartTime: 170401.375
-  Bpm: 90
-- StartTime: 170411.78125
-  Bpm: 90
-- StartTime: 170422.1875
-  Bpm: 90
-- StartTime: 170432.59375
-  Bpm: 90
-- StartTime: 170442.984375
-  Bpm: 90
-- StartTime: 170443
-  Bpm: 90
-- StartTime: 170443.015625
-  Bpm: 90
-- StartTime: 170453.40625
-  Bpm: 90
-- StartTime: 170463.8125
-  Bpm: 90
-- StartTime: 170474.21875
-  Bpm: 90
-- StartTime: 170484.625
-  Bpm: 90
-- StartTime: 170495.03125
-  Bpm: 90
-- StartTime: 170505.4375
-  Bpm: 90
-- StartTime: 170515.84375
-  Bpm: 90
-- StartTime: 170526.25
-  Bpm: 90
-- StartTime: 170536.65625
-  Bpm: 90
-- StartTime: 170547.0625
-  Bpm: 90
-- StartTime: 170557.46875
-  Bpm: 90
-- StartTime: 170567.875
-  Bpm: 90
-- StartTime: 170578.28125
-  Bpm: 90
-- StartTime: 170588.6875
-  Bpm: 90
-- StartTime: 170599.09375
-  Bpm: 90
-- StartTime: 170609.5
-  Bpm: 90
-- StartTime: 170609.984375
-  Bpm: 90
-- StartTime: 170610
-  Bpm: 90
-- StartTime: 170610.015625
-  Bpm: 90
-- StartTime: 170619.90625
-  Bpm: 90
-- StartTime: 170630.3125
-  Bpm: 90
-- StartTime: 170640.71875
-  Bpm: 90
-- StartTime: 170651.125
-  Bpm: 90
-- StartTime: 170661.53125
-  Bpm: 90
-- StartTime: 170671.9375
-  Bpm: 90
-- StartTime: 170682.34375
-  Bpm: 90
-- StartTime: 170692.75
-  Bpm: 90
-- StartTime: 170703.15625
-  Bpm: 90
-- StartTime: 170713.5625
-  Bpm: 90
-- StartTime: 170723.96875
-  Bpm: 90
-- StartTime: 170734.375
-  Bpm: 90
+
 - StartTime: 170735
   Bpm: 90
 - StartTime: 170735
@@ -5569,8 +4636,6 @@ TimingPoints:
   Bpm: 90
 - StartTime: 170791.296875
   Bpm: 90
-- StartTime: 170793
-  Bpm: 90
 - StartTime: 170793.15625
   Bpm: 90
 - StartTime: 170795.0625
@@ -5587,8 +4652,6 @@ TimingPoints:
   Bpm: 90
 - StartTime: 170807.5
   Bpm: 90
-- StartTime: 170808.25
-  Bpm: 90
 - StartTime: 170809.75
   Bpm: 90
 - StartTime: 170812.046875
@@ -5600,8 +4663,6 @@ TimingPoints:
 - StartTime: 170819.265625
   Bpm: 90
 - StartTime: 170821.78125
-  Bpm: 90
-- StartTime: 170823.5
   Bpm: 90
 - StartTime: 170824.359375
   Bpm: 90
@@ -5615,8 +4676,6 @@ TimingPoints:
   Bpm: 90
 - StartTime: 170838.078125
   Bpm: 90
-- StartTime: 170838.734375
-  Bpm: 90
 - StartTime: 170841
   Bpm: 90
 - StartTime: 170844
@@ -5627,8 +4686,6 @@ TimingPoints:
   Bpm: 90
 - StartTime: 170853.328125
   Bpm: 90
-- StartTime: 170853.984375
-  Bpm: 90
 - StartTime: 170856.578125
   Bpm: 90
 - StartTime: 170859.875
@@ -5636,8 +4693,6 @@ TimingPoints:
 - StartTime: 170863.25
   Bpm: 90
 - StartTime: 170866.703125
-  Bpm: 90
-- StartTime: 170869.234375
   Bpm: 90
 - StartTime: 170870.203125
   Bpm: 90
@@ -5647,8 +4702,6 @@ TimingPoints:
   Bpm: 90
 - StartTime: 170881.171875
   Bpm: 90
-- StartTime: 170884.46875
-  Bpm: 90
 - StartTime: 170884.96875
   Bpm: 90
 - StartTime: 170888.828125
@@ -5656,8 +4709,6 @@ TimingPoints:
 - StartTime: 170892.78125
   Bpm: 90
 - StartTime: 170896.796875
-  Bpm: 90
-- StartTime: 170899.71875
   Bpm: 90
 - StartTime: 170900.890625
   Bpm: 90
@@ -5667,15 +4718,11 @@ TimingPoints:
   Bpm: 90
 - StartTime: 170913.65625
   Bpm: 90
-- StartTime: 170914.96875
-  Bpm: 90
 - StartTime: 170918.0625
   Bpm: 90
 - StartTime: 170922.546875
   Bpm: 90
 - StartTime: 170927.125
-  Bpm: 90
-- StartTime: 170930.21875
   Bpm: 90
 - StartTime: 170931.78125
   Bpm: 90
@@ -5683,15 +4730,11 @@ TimingPoints:
   Bpm: 90
 - StartTime: 170941.359375
   Bpm: 90
-- StartTime: 170945.46875
-  Bpm: 90
 - StartTime: 170946.265625
   Bpm: 90
 - StartTime: 170951.265625
   Bpm: 90
 - StartTime: 170956.359375
-  Bpm: 90
-- StartTime: 170960.703125
   Bpm: 90
 - StartTime: 170961.53125
   Bpm: 90
@@ -5699,15 +4742,11 @@ TimingPoints:
   Bpm: 90
 - StartTime: 170972.15625
   Bpm: 90
-- StartTime: 170975.953125
-  Bpm: 90
 - StartTime: 170977.609375
   Bpm: 90
 - StartTime: 170983.15625
   Bpm: 90
 - StartTime: 170988.796875
-  Bpm: 90
-- StartTime: 170991.203125
   Bpm: 90
 - StartTime: 170994.53125
   Bpm: 90
@@ -5715,19 +4754,13 @@ TimingPoints:
   Bpm: 90
 - StartTime: 171006.296875
   Bpm: 90
-- StartTime: 171006.4375
-  Bpm: 90
 - StartTime: 171012.328125
   Bpm: 90
 - StartTime: 171018.453125
   Bpm: 90
-- StartTime: 171021.6875
-  Bpm: 90
 - StartTime: 171024.6875
   Bpm: 90
 - StartTime: 171031.015625
-  Bpm: 90
-- StartTime: 171036.9375
   Bpm: 90
 - StartTime: 171037.453125
   Bpm: 90
@@ -5735,999 +4768,393 @@ TimingPoints:
   Bpm: 90
 - StartTime: 171050.625
   Bpm: 90
-- StartTime: 171052.1875
-  Bpm: 90
 - StartTime: 171057.375
   Bpm: 90
 - StartTime: 171064.234375
-  Bpm: 90
-- StartTime: 171067.4375
   Bpm: 90
 - StartTime: 171071.203125
   Bpm: 90
 - StartTime: 171078.28125
   Bpm: 90
-- StartTime: 171082.671875
-  Bpm: 90
 - StartTime: 171085.46875
   Bpm: 90
 - StartTime: 171092.78125
-  Bpm: 90
-- StartTime: 171097.921875
   Bpm: 90
 - StartTime: 171100.1875
   Bpm: 90
 - StartTime: 171107.71875
   Bpm: 90
-- StartTime: 171113.171875
-  Bpm: 90
 - StartTime: 171115.359375
   Bpm: 90
 - StartTime: 171123.125
-  Bpm: 90
-- StartTime: 171128.40625
   Bpm: 90
 - StartTime: 171131.015625
   Bpm: 90
 - StartTime: 171139.015625
   Bpm: 90
-- StartTime: 171143.65625
-  Bpm: 90
 - StartTime: 171147.125
   Bpm: 90
 - StartTime: 171155.375
-  Bpm: 90
-- StartTime: 171158.90625
   Bpm: 90
 - StartTime: 171163.734375
   Bpm: 90
 - StartTime: 171172.234375
   Bpm: 90
-- StartTime: 171174.15625
-  Bpm: 90
 - StartTime: 171180.84375
-  Bpm: 90
-- StartTime: 171189.40625
   Bpm: 90
 - StartTime: 171189.578125
   Bpm: 90
 - StartTime: 171198.453125
   Bpm: 90
-- StartTime: 171204.640625
-  Bpm: 90
 - StartTime: 171207.453125
   Bpm: 90
 - StartTime: 171216.578125
   Bpm: 90
-- StartTime: 171219.890625
-  Bpm: 90
 - StartTime: 171225.84375
-  Bpm: 90
-- StartTime: 171235.140625
   Bpm: 90
 - StartTime: 171235.234375
   Bpm: 90
 - StartTime: 171244.765625
   Bpm: 90
-- StartTime: 171250.375
-  Bpm: 90
 - StartTime: 171254.421875
   Bpm: 90
 - StartTime: 171264.234375
   Bpm: 90
-- StartTime: 171265.625
-  Bpm: 90
 - StartTime: 171274.171875
-  Bpm: 90
-- StartTime: 171280.875
   Bpm: 90
 - StartTime: 171284.25
   Bpm: 90
 - StartTime: 171294.46875
   Bpm: 90
-- StartTime: 171296.125
-  Bpm: 90
 - StartTime: 171304.828125
-  Bpm: 90
-- StartTime: 171311.375
   Bpm: 90
 - StartTime: 171315.328125
   Bpm: 90
 - StartTime: 171325.96875
   Bpm: 90
-- StartTime: 171326.609375
-  Bpm: 90
 - StartTime: 171336.765625
   Bpm: 90
-- StartTime: 171341.859375
-  Bpm: 90
 - StartTime: 171347.71875
-  Bpm: 90
-- StartTime: 171357.109375
   Bpm: 90
 - StartTime: 171358.796875
   Bpm: 90
 - StartTime: 171370.046875
   Bpm: 90
-- StartTime: 171372.34375
-  Bpm: 90
 - StartTime: 171381.4375
   Bpm: 90
-- StartTime: 171387.59375
-  Bpm: 90
 - StartTime: 171392.96875
-  Bpm: 90
-- StartTime: 171402.84375
   Bpm: 90
 - StartTime: 171404.671875
   Bpm: 90
 - StartTime: 171416.515625
   Bpm: 90
-- StartTime: 171418.09375
-  Bpm: 90
 - StartTime: 171428.53125
-  Bpm: 90
-- StartTime: 171433.34375
   Bpm: 90
 - StartTime: 171440.703125
   Bpm: 90
-- StartTime: 171448.578125
-  Bpm: 90
 - StartTime: 171453.03125
-  Bpm: 90
-- StartTime: 171463.828125
   Bpm: 90
 - StartTime: 171465.515625
   Bpm: 90
 - StartTime: 171478.15625
   Bpm: 90
-- StartTime: 171479.078125
-  Bpm: 90
 - StartTime: 171490.96875
-  Bpm: 90
-- StartTime: 171494.3125
   Bpm: 90
 - StartTime: 171503.953125
   Bpm: 90
-- StartTime: 171509.5625
-  Bpm: 90
 - StartTime: 171517.09375
-  Bpm: 90
-- StartTime: 171524.8125
   Bpm: 90
 - StartTime: 171530.40625
   Bpm: 90
-- StartTime: 171540.0625
-  Bpm: 90
 - StartTime: 171543.890625
   Bpm: 90
-- StartTime: 171555.3125
-  Bpm: 90
 - StartTime: 171557.546875
-  Bpm: 90
-- StartTime: 171570.546875
   Bpm: 90
 - StartTime: 171571.359375
   Bpm: 90
 - StartTime: 171585.359375
   Bpm: 90
-- StartTime: 171585.796875
-  Bpm: 90
 - StartTime: 171599.53125
-  Bpm: 90
-- StartTime: 171601.046875
   Bpm: 90
 - StartTime: 171613.890625
   Bpm: 90
-- StartTime: 171616.28125
-  Bpm: 90
 - StartTime: 171628.40625
-  Bpm: 90
-- StartTime: 171631.53125
   Bpm: 90
 - StartTime: 171643.125
   Bpm: 90
-- StartTime: 171646.78125
-  Bpm: 90
 - StartTime: 171658
-  Bpm: 90
-- StartTime: 171662.03125
   Bpm: 90
 - StartTime: 171673.078125
   Bpm: 90
-- StartTime: 171677.28125
-  Bpm: 90
 - StartTime: 171688.328125
-  Bpm: 90
-- StartTime: 171692.515625
   Bpm: 90
 - StartTime: 171703.765625
   Bpm: 90
-- StartTime: 171707.765625
-  Bpm: 90
 - StartTime: 171719.390625
-  Bpm: 90
-- StartTime: 171723.015625
   Bpm: 90
 - StartTime: 171735.203125
   Bpm: 90
-- StartTime: 171738.25
-  Bpm: 90
 - StartTime: 171751.203125
-  Bpm: 90
-- StartTime: 171753.5
   Bpm: 90
 - StartTime: 171767.40625
   Bpm: 90
-- StartTime: 171768.75
-  Bpm: 90
 - StartTime: 171783.78125
-  Bpm: 90
-- StartTime: 171784
-  Bpm: 90
-- StartTime: 171799.25
   Bpm: 90
 - StartTime: 171800.375
   Bpm: 90
-- StartTime: 171814.484375
-  Bpm: 90
 - StartTime: 171817.140625
-  Bpm: 90
-- StartTime: 171829.734375
   Bpm: 90
 - StartTime: 171834.125
   Bpm: 90
-- StartTime: 171844.984375
-  Bpm: 90
 - StartTime: 171851.296875
-  Bpm: 90
-- StartTime: 171860.21875
   Bpm: 90
 - StartTime: 171868.671875
   Bpm: 90
-- StartTime: 171875.46875
-  Bpm: 90
 - StartTime: 171886.25
-  Bpm: 90
-- StartTime: 171890.71875
   Bpm: 90
 - StartTime: 171904.03125
   Bpm: 90
-- StartTime: 171905.96875
-  Bpm: 90
-- StartTime: 171921.21875
-  Bpm: 90
 - StartTime: 171922.015625
-  Bpm: 90
-- StartTime: 171936.453125
   Bpm: 90
 - StartTime: 171940.203125
   Bpm: 90
-- StartTime: 171951.703125
-  Bpm: 90
 - StartTime: 171958.59375
-  Bpm: 90
-- StartTime: 171966.953125
   Bpm: 90
 - StartTime: 171977.203125
   Bpm: 90
-- StartTime: 171982.1875
-  Bpm: 90
 - StartTime: 171996.03125
-  Bpm: 90
-- StartTime: 171997.4375
-  Bpm: 90
-- StartTime: 172012.6875
   Bpm: 90
 - StartTime: 172015.0625
   Bpm: 90
-- StartTime: 172027.9375
-  Bpm: 90
 - StartTime: 172034.3125
-  Bpm: 90
-- StartTime: 172043.1875
   Bpm: 90
 - StartTime: 172053.78125
   Bpm: 90
-- StartTime: 172058.421875
-  Bpm: 90
 - StartTime: 172073.46875
-  Bpm: 90
-- StartTime: 172073.671875
-  Bpm: 90
-- StartTime: 172088.921875
   Bpm: 90
 - StartTime: 172093.359375
   Bpm: 90
-- StartTime: 172104.15625
-  Bpm: 90
 - StartTime: 172113.484375
-  Bpm: 90
-- StartTime: 172119.40625
   Bpm: 90
 - StartTime: 172133.828125
   Bpm: 90
-- StartTime: 172134.65625
-  Bpm: 90
-- StartTime: 172149.90625
-  Bpm: 90
 - StartTime: 172154.40625
-  Bpm: 90
-- StartTime: 172165.15625
   Bpm: 90
 - StartTime: 172175.203125
   Bpm: 90
-- StartTime: 172180.390625
-  Bpm: 90
-- StartTime: 172195.640625
-  Bpm: 90
 - StartTime: 172196.234375
-  Bpm: 90
-- StartTime: 172210.890625
   Bpm: 90
 - StartTime: 172217.484375
   Bpm: 90
-- StartTime: 172226.125
-  Bpm: 90
 - StartTime: 172238.96875
-  Bpm: 90
-- StartTime: 172241.375
-  Bpm: 90
-- StartTime: 172256.625
   Bpm: 90
 - StartTime: 172260.6875
   Bpm: 90
-- StartTime: 172271.875
-  Bpm: 90
 - StartTime: 172282.640625
-  Bpm: 90
-- StartTime: 172287.125
-  Bpm: 90
-- StartTime: 172302.359375
   Bpm: 90
 - StartTime: 172304.828125
   Bpm: 90
-- StartTime: 172317.609375
-  Bpm: 90
 - StartTime: 172327.25
-  Bpm: 90
-- StartTime: 172332.859375
-  Bpm: 90
-- StartTime: 172348.09375
   Bpm: 90
 - StartTime: 172349.921875
   Bpm: 90
-- StartTime: 172363.34375
-  Bpm: 90
 - StartTime: 172372.828125
-  Bpm: 90
-- StartTime: 172378.59375
-  Bpm: 90
-- StartTime: 172393.84375
   Bpm: 90
 - StartTime: 172395.96875
   Bpm: 90
-- StartTime: 172409.09375
-  Bpm: 90
 - StartTime: 172419.359375
-  Bpm: 90
-- StartTime: 172424.328125
-  Bpm: 90
-- StartTime: 172439.578125
   Bpm: 90
 - StartTime: 172443
   Bpm: 90
-- StartTime: 172454.828125
-  Bpm: 90
 - StartTime: 172466.890625
-  Bpm: 90
-- StartTime: 172470.0625
-  Bpm: 90
-- StartTime: 172485.3125
   Bpm: 90
 - StartTime: 172491.03125
   Bpm: 90
-- StartTime: 172500.5625
-  Bpm: 90
 - StartTime: 172515.421875
-  Bpm: 90
-- StartTime: 172515.8125
-  Bpm: 90
-- StartTime: 172531.0625
   Bpm: 90
 - StartTime: 172540.0625
   Bpm: 90
-- StartTime: 172546.296875
-  Bpm: 90
-- StartTime: 172561.546875
-  Bpm: 90
 - StartTime: 172564.953125
-  Bpm: 90
-- StartTime: 172576.796875
   Bpm: 90
 - StartTime: 172590.109375
   Bpm: 90
-- StartTime: 172592.03125
-  Bpm: 90
-- StartTime: 172607.28125
-  Bpm: 90
 - StartTime: 172615.515625
-  Bpm: 90
-- StartTime: 172622.53125
-  Bpm: 90
-- StartTime: 172637.78125
   Bpm: 90
 - StartTime: 172641.203125
   Bpm: 90
-- StartTime: 172653.03125
-  Bpm: 90
 - StartTime: 172667.125
-  Bpm: 90
-- StartTime: 172668.265625
-  Bpm: 90
-- StartTime: 172683.515625
   Bpm: 90
 - StartTime: 172693.328125
   Bpm: 90
-- StartTime: 172698.765625
-  Bpm: 90
-- StartTime: 172714
-  Bpm: 90
 - StartTime: 172719.796875
-  Bpm: 90
-- StartTime: 172729.25
-  Bpm: 90
-- StartTime: 172744.5
   Bpm: 90
 - StartTime: 172746.515625
   Bpm: 90
-- StartTime: 172759.75
-  Bpm: 90
 - StartTime: 172773.515625
-  Bpm: 90
-- StartTime: 172775
-  Bpm: 90
-- StartTime: 172790.234375
   Bpm: 90
 - StartTime: 172800.796875
   Bpm: 90
-- StartTime: 172805.484375
-  Bpm: 90
-- StartTime: 172820.734375
-  Bpm: 90
 - StartTime: 172828.34375
-  Bpm: 90
-- StartTime: 172835.96875
-  Bpm: 90
-- StartTime: 172851.21875
   Bpm: 90
 - StartTime: 172856.15625
   Bpm: 90
-- StartTime: 172866.46875
-  Bpm: 90
-- StartTime: 172881.71875
-  Bpm: 90
 - StartTime: 172884.25
-  Bpm: 90
-- StartTime: 172896.96875
-  Bpm: 90
-- StartTime: 172912.203125
   Bpm: 90
 - StartTime: 172912.625
   Bpm: 90
-- StartTime: 172927.453125
-  Bpm: 90
 - StartTime: 172941.28125
-  Bpm: 90
-- StartTime: 172942.703125
-  Bpm: 90
-- StartTime: 172957.9375
   Bpm: 90
 - StartTime: 172970.203125
   Bpm: 90
-- StartTime: 172973.1875
-  Bpm: 90
-- StartTime: 172988.4375
-  Bpm: 90
 - StartTime: 172999.421875
-  Bpm: 90
-- StartTime: 173003.6875
-  Bpm: 90
-- StartTime: 173018.9375
   Bpm: 90
 - StartTime: 173028.9375
   Bpm: 90
-- StartTime: 173034.171875
-  Bpm: 90
-- StartTime: 173049.421875
-  Bpm: 90
 - StartTime: 173058.71875
-  Bpm: 90
-- StartTime: 173064.671875
-  Bpm: 90
-- StartTime: 173079.90625
   Bpm: 90
 - StartTime: 173088.796875
   Bpm: 90
-- StartTime: 173095.15625
-  Bpm: 90
-- StartTime: 173110.40625
-  Bpm: 90
 - StartTime: 173119.171875
-  Bpm: 90
-- StartTime: 173125.65625
-  Bpm: 90
-- StartTime: 173140.90625
   Bpm: 90
 - StartTime: 173149.84375
   Bpm: 90
-- StartTime: 173156.140625
-  Bpm: 90
-- StartTime: 173171.390625
-  Bpm: 90
 - StartTime: 173180.796875
-  Bpm: 90
-- StartTime: 173186.640625
-  Bpm: 90
-- StartTime: 173201.875
   Bpm: 90
 - StartTime: 173212.046875
   Bpm: 90
-- StartTime: 173217.125
-  Bpm: 90
-- StartTime: 173232.375
-  Bpm: 90
 - StartTime: 173243.609375
-  Bpm: 90
-- StartTime: 173247.625
-  Bpm: 90
-- StartTime: 173262.875
   Bpm: 90
 - StartTime: 173275.46875
   Bpm: 90
-- StartTime: 173278.109375
-  Bpm: 90
-- StartTime: 173293.359375
-  Bpm: 90
 - StartTime: 173307.625
-  Bpm: 90
-- StartTime: 173308.609375
-  Bpm: 90
-- StartTime: 173323.84375
-  Bpm: 90
-- StartTime: 173339.09375
   Bpm: 90
 - StartTime: 173340.078125
   Bpm: 90
-- StartTime: 173354.34375
-  Bpm: 90
-- StartTime: 173369.59375
-  Bpm: 90
 - StartTime: 173372.84375
-  Bpm: 90
-- StartTime: 173384.84375
-  Bpm: 90
-- StartTime: 173400.078125
   Bpm: 90
 - StartTime: 173405.921875
   Bpm: 90
-- StartTime: 173415.328125
-  Bpm: 90
-- StartTime: 173430.578125
-  Bpm: 90
 - StartTime: 173439.3125
-  Bpm: 90
-- StartTime: 173445.8125
-  Bpm: 90
-- StartTime: 173461.0625
   Bpm: 90
 - StartTime: 173473.015625
   Bpm: 90
-- StartTime: 173476.3125
-  Bpm: 90
-- StartTime: 173491.5625
-  Bpm: 90
-- StartTime: 173506.8125
-  Bpm: 90
 - StartTime: 173507.015625
-  Bpm: 90
-- StartTime: 173522.046875
-  Bpm: 90
-- StartTime: 173537.296875
   Bpm: 90
 - StartTime: 173541.34375
   Bpm: 90
-- StartTime: 173552.546875
-  Bpm: 90
-- StartTime: 173567.78125
-  Bpm: 90
 - StartTime: 173576
-  Bpm: 90
-- StartTime: 173583.03125
-  Bpm: 90
-- StartTime: 173598.28125
   Bpm: 90
 - StartTime: 173610.96875
   Bpm: 90
-- StartTime: 173613.53125
-  Bpm: 90
-- StartTime: 173628.78125
-  Bpm: 90
-- StartTime: 173644.015625
-  Bpm: 90
 - StartTime: 173646.25
-  Bpm: 90
-- StartTime: 173659.265625
-  Bpm: 90
-- StartTime: 173674.515625
   Bpm: 90
 - StartTime: 173681.859375
   Bpm: 90
-- StartTime: 173689.75
-  Bpm: 90
-- StartTime: 173705
-  Bpm: 90
 - StartTime: 173717.796875
-  Bpm: 90
-- StartTime: 173720.25
-  Bpm: 90
-- StartTime: 173735.5
-  Bpm: 90
-- StartTime: 173750.75
   Bpm: 90
 - StartTime: 173754.0625
   Bpm: 90
-- StartTime: 173765.984375
-  Bpm: 90
-- StartTime: 173781.234375
-  Bpm: 90
 - StartTime: 173790.65625
-  Bpm: 90
-- StartTime: 173796.484375
-  Bpm: 90
-- StartTime: 173811.71875
-  Bpm: 90
-- StartTime: 173826.96875
   Bpm: 90
 - StartTime: 173827.578125
   Bpm: 90
-- StartTime: 173842.21875
-  Bpm: 90
-- StartTime: 173857.46875
-  Bpm: 90
 - StartTime: 173864.84375
-  Bpm: 90
-- StartTime: 173872.71875
-  Bpm: 90
-- StartTime: 173887.953125
   Bpm: 90
 - StartTime: 173902.4375
   Bpm: 90
-- StartTime: 173903.203125
-  Bpm: 90
-- StartTime: 173918.453125
-  Bpm: 90
-- StartTime: 173933.6875
-  Bpm: 90
 - StartTime: 173940.375
-  Bpm: 90
-- StartTime: 173948.9375
-  Bpm: 90
-- StartTime: 173964.1875
   Bpm: 90
 - StartTime: 173978.640625
   Bpm: 90
-- StartTime: 173979.4375
-  Bpm: 90
-- StartTime: 173994.6875
-  Bpm: 90
-- StartTime: 174009.921875
-  Bpm: 90
 - StartTime: 174017.265625
-  Bpm: 90
-- StartTime: 174025.171875
-  Bpm: 90
-- StartTime: 174040.421875
-  Bpm: 90
-- StartTime: 174055.65625
   Bpm: 90
 - StartTime: 174056.21875
   Bpm: 90
-- StartTime: 174070.90625
-  Bpm: 90
-- StartTime: 174086.15625
-  Bpm: 90
 - StartTime: 174095.515625
-  Bpm: 90
-- StartTime: 174101.40625
-  Bpm: 90
-- StartTime: 174116.65625
-  Bpm: 90
-- StartTime: 174131.890625
   Bpm: 90
 - StartTime: 174135.171875
   Bpm: 90
-- StartTime: 174147.140625
-  Bpm: 90
-- StartTime: 174162.390625
-  Bpm: 90
 - StartTime: 174175.171875
-  Bpm: 90
-- StartTime: 174177.625
-  Bpm: 90
-- StartTime: 174192.875
-  Bpm: 90
-- StartTime: 174208.125
   Bpm: 90
 - StartTime: 174215.53125
   Bpm: 90
-- StartTime: 174223.375
-  Bpm: 90
-- StartTime: 174238.625
-  Bpm: 90
-- StartTime: 174253.859375
-  Bpm: 90
 - StartTime: 174256.234375
-  Bpm: 90
-- StartTime: 174269.109375
-  Bpm: 90
-- StartTime: 174284.359375
   Bpm: 90
 - StartTime: 174297.296875
   Bpm: 90
-- StartTime: 174299.59375
-  Bpm: 90
-- StartTime: 174314.84375
-  Bpm: 90
-- StartTime: 174330.09375
-  Bpm: 90
 - StartTime: 174338.71875
-  Bpm: 90
-- StartTime: 174345.34375
-  Bpm: 90
-- StartTime: 174360.59375
-  Bpm: 90
-- StartTime: 174375.828125
   Bpm: 90
 - StartTime: 174380.5
   Bpm: 90
-- StartTime: 174391.078125
-  Bpm: 90
-- StartTime: 174406.328125
-  Bpm: 90
-- StartTime: 174421.5625
-  Bpm: 90
 - StartTime: 174422.640625
-  Bpm: 90
-- StartTime: 174436.8125
-  Bpm: 90
-- StartTime: 174452.0625
   Bpm: 90
 - StartTime: 174465.15625
   Bpm: 90
-- StartTime: 174467.3125
-  Bpm: 90
-- StartTime: 174482.5625
-  Bpm: 90
-- StartTime: 174497.796875
-  Bpm: 90
 - StartTime: 174508.03125
-  Bpm: 90
-- StartTime: 174513.046875
-  Bpm: 90
-- StartTime: 174528.296875
-  Bpm: 90
-- StartTime: 174543.53125
   Bpm: 90
 - StartTime: 174551.28125
   Bpm: 90
-- StartTime: 174558.78125
-  Bpm: 90
-- StartTime: 174574.03125
-  Bpm: 90
-- StartTime: 174589.28125
-  Bpm: 90
 - StartTime: 174594.890625
-  Bpm: 90
-- StartTime: 174604.53125
-  Bpm: 90
-- StartTime: 174619.765625
-  Bpm: 90
-- StartTime: 174635.015625
   Bpm: 90
 - StartTime: 174638.875
   Bpm: 90
-- StartTime: 174650.265625
-  Bpm: 90
-- StartTime: 174665.5
-  Bpm: 90
-- StartTime: 174680.75
-  Bpm: 90
 - StartTime: 174683.234375
-  Bpm: 90
-- StartTime: 174696
-  Bpm: 90
-- StartTime: 174720.328125
   Bpm: 90
 - StartTime: 174727.96875
   Bpm: 90
-- StartTime: 174744.65625
-  Bpm: 90
-- StartTime: 174768.984375
-  Bpm: 90
 - StartTime: 174773.09375
-  Bpm: 90
-- StartTime: 174793.3125
-  Bpm: 90
-- StartTime: 174817.640625
   Bpm: 90
 - StartTime: 174818.59375
   Bpm: 90
-- StartTime: 174841.96875
-  Bpm: 90
 - StartTime: 174864.46875
-  Bpm: 90
-- StartTime: 174866.296875
-  Bpm: 90
-- StartTime: 174890.625
   Bpm: 90
 - StartTime: 174910.75
   Bpm: 90
-- StartTime: 174914.953125
-  Bpm: 90
-- StartTime: 174939.28125
-  Bpm: 90
 - StartTime: 174957.40625
-  Bpm: 90
-- StartTime: 174963.609375
-  Bpm: 90
-- StartTime: 174987.9375
   Bpm: 90
 - StartTime: 175004.453125
   Bpm: 90
-- StartTime: 175012.265625
-  Bpm: 90
-- StartTime: 175036.59375
-  Bpm: 90
 - StartTime: 175051.890625
-  Bpm: 90
-- StartTime: 175060.921875
-  Bpm: 90
-- StartTime: 175085.25
   Bpm: 90
 - StartTime: 175099.71875
   Bpm: 90
-- StartTime: 175109.578125
-  Bpm: 90
-- StartTime: 175133.90625
-  Bpm: 90
 - StartTime: 175147.9375
-  Bpm: 90
-- StartTime: 175158.234375
-  Bpm: 90
-- StartTime: 175182.5625
   Bpm: 90
 - StartTime: 175196.578125
   Bpm: 90
-- StartTime: 175206.890625
-  Bpm: 90
-- StartTime: 175231.21875
-  Bpm: 90
 - StartTime: 175245.59375
-  Bpm: 90
-- StartTime: 175255.546875
-  Bpm: 90
-- StartTime: 175279.875
   Bpm: 90
 - StartTime: 175295.03125
   Bpm: 90
-- StartTime: 175304.203125
-  Bpm: 90
-- StartTime: 175328.53125
-  Bpm: 90
 - StartTime: 175344.859375
-  Bpm: 90
-- StartTime: 175352.859375
-  Bpm: 90
-- StartTime: 175377.1875
   Bpm: 90
 - StartTime: 175395.109375
   Bpm: 90
-- StartTime: 175401.515625
-  Bpm: 90
-- StartTime: 175425.84375
-  Bpm: 90
 - StartTime: 175445.765625
-  Bpm: 90
-- StartTime: 175450.171875
-  Bpm: 90
-- StartTime: 175474.5
   Bpm: 90
 - StartTime: 175496.828125
   Bpm: 90
-- StartTime: 175498.828125
-  Bpm: 90
-- StartTime: 175523.15625
-  Bpm: 90
-- StartTime: 175547.484375
-  Bpm: 90
 - StartTime: 175548.3125
-  Bpm: 90
-- StartTime: 175571.8125
-  Bpm: 90
-- StartTime: 175596.140625
   Bpm: 90
 - StartTime: 175600.203125
   Bpm: 90
-- StartTime: 175620.46875
-  Bpm: 90
-- StartTime: 175644.796875
-  Bpm: 90
 - StartTime: 175652.515625
-  Bpm: 90
-- StartTime: 175669.125
-  Bpm: 90
-- StartTime: 175693.453125
   Bpm: 90
 - StartTime: 175705.25
   Bpm: 90
-- StartTime: 175717.78125
-  Bpm: 90
-- StartTime: 175742.109375
-  Bpm: 90
 - StartTime: 175758.40625
-  Bpm: 90
-- StartTime: 175766.4375
-  Bpm: 90
-- StartTime: 175790.765625
   Bpm: 90
 - StartTime: 175811.984375
   Bpm: 90
-- StartTime: 175815.09375
-  Bpm: 90
-- StartTime: 175839.421875
-  Bpm: 90
-- StartTime: 175863.75
-  Bpm: 90
 - StartTime: 175866
-  Bpm: 90
-- StartTime: 175888.078125
-  Bpm: 90
-- StartTime: 175912.40625
   Bpm: 90
 - StartTime: 175920.4375
   Bpm: 90
-- StartTime: 175936.734375
-  Bpm: 90
-- StartTime: 175961.0625
-  Bpm: 90
 - StartTime: 175975.3125
-  Bpm: 90
-- StartTime: 175985.390625
-  Bpm: 90
-- StartTime: 176009.71875
   Bpm: 90
 - StartTime: 176030.625
   Bpm: 90
-- StartTime: 176034.046875
-  Bpm: 90
-- StartTime: 176058.375
-  Bpm: 90
-- StartTime: 176082.703125
-  Bpm: 90
 - StartTime: 176086.359375
-  Bpm: 90
-- StartTime: 176107.03125
-  Bpm: 90
-- StartTime: 176131.359375
-  Bpm: 90
-- StartTime: 176155.6875
-  Bpm: 90
-- StartTime: 176180.015625
-  Bpm: 90
-- StartTime: 176204.34375
-  Bpm: 90
-- StartTime: 176228.671875
   Bpm: 90
 SliderVelocities:
 - StartTime: 2776
@@ -31145,8 +29572,6 @@ SliderVelocities:
   Multiplier: 2.2071073055267334
 - StartTime: 170609.984375
   Multiplier: 2377.7763671875
-- StartTime: 170610
-  Multiplier: 524480.875
 - StartTime: 170610.015625
   Multiplier: 2.2063038349151611
 - StartTime: 170619.90625
