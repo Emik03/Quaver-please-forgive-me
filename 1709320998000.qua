@@ -2619,6 +2619,22 @@ TimingPoints:
   Bpm: 90
 - StartTime: 37442.65234375
   Bpm: 90
+- StartTime: 45443
+  Bpm: 90
+- StartTime: 48110
+  Bpm: 90
+- StartTime: 50776
+  Bpm: 90
+- StartTime: 53443
+  Bpm: 90
+- StartTime: 56110
+  Bpm: 90
+- StartTime: 58776
+  Bpm: 90
+- StartTime: 61443
+  Bpm: 90
+- StartTime: 64109
+  Bpm: 90
 - StartTime: 64443
   Bpm: 90
 - StartTime: 64448.203125
@@ -3787,7 +3803,7 @@ TimingPoints:
   Bpm: 90
 - StartTime: 72276
   Bpm: 90
-- StartTime: 72276.015625
+- StartTime: 72276
   Bpm: 90
 - StartTime: 74776
   Bpm: 90
@@ -5442,6 +5458,14 @@ TimingPoints:
 - StartTime: 84110
   Bpm: 90
 - StartTime: 85443.3359375
+  Bpm: 90
+- StartTime: 106776
+  Bpm: 90
+- StartTime: 109443
+  Bpm: 90
+- StartTime: 112110
+  Bpm: 90
+- StartTime: 114776
   Bpm: 90
 - StartTime: 117443
   Bpm: 90
@@ -7828,6 +7852,16 @@ TimingPoints:
 - StartTime: 127443
   Bpm: 90
 - StartTime: 128110
+  Bpm: 90
+- StartTime: 133443
+  Bpm: 90
+- StartTime: 138776
+  Bpm: 90
+- StartTime: 141443
+  Bpm: 90
+- StartTime: 154776
+  Bpm: 90
+- StartTime: 160110
   Bpm: 90
 - StartTime: 160443
   Bpm: 90
@@ -17471,6 +17505,12 @@ SliderVelocities:
 - StartTime: 64089.125
   Multiplier: 0.078063890337944031
 - StartTime: 64099.5625
+  Multiplier: 0.46856680512428284
+- StartTime: 64108.984375
+  Multiplier: 7808.46875
+- StartTime: 64109
+  Multiplier: -7807.53125
+- StartTime: 64109.015625
   Multiplier: 0.46856680512428284
 - StartTime: 64109.984375
   Multiplier: 7932.96875
@@ -35798,7 +35838,7 @@ HitObjects:
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
-- StartTime: 45610
+- StartTime: 45609
   Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
