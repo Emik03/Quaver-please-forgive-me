@@ -35838,7 +35838,7 @@ HitObjects:
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 2
-- StartTime: 45609
+- StartTime: 45610
   Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
