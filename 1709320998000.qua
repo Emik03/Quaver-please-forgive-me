@@ -2231,6 +2231,9 @@ TimingPoints:
   Bpm: 90
 - StartTime: 32766.208984375
   Bpm: 90
+- StartTime: 32776
+  Bpm: 90
+  Hidden: true
 - StartTime: 32776.625
   Bpm: 90
 - StartTime: 32787.0390625
@@ -2359,6 +2362,9 @@ TimingPoints:
   Bpm: 90
 - StartTime: 33432.8359375
   Bpm: 90
+- StartTime: 33443
+  Bpm: 90
+  Hidden: true
 - StartTime: 33443.25
   Bpm: 90
 - StartTime: 33453.6640625
@@ -3801,9 +3807,10 @@ TimingPoints:
   Bpm: 90
 - StartTime: 71943
   Bpm: 90
-- StartTime: 72276
+- StartTime: 72109.65625
   Bpm: 90
-- StartTime: 72276
+  Hidden: true
+- StartTime: 72776.3046875
   Bpm: 90
 - StartTime: 74776
   Bpm: 90
@@ -4255,6 +4262,9 @@ TimingPoints:
   Bpm: 90
 - StartTime: 75943
   Bpm: 90
+- StartTime: 76109.65625
+  Bpm: 90
+  Hidden: true
 - StartTime: 76776
   Bpm: 90
 - StartTime: 76781.21875
@@ -5093,6 +5103,9 @@ TimingPoints:
   Bpm: 90
 - StartTime: 81276
   Bpm: 90
+- StartTime: 81442.65625
+  Bpm: 90
+  Hidden: true
 - StartTime: 82110
   Bpm: 90
 - StartTime: 82120.375
@@ -5161,6 +5174,9 @@ TimingPoints:
   Bpm: 90
 - StartTime: 82610
   Bpm: 90
+- StartTime: 82775.984375
+  Bpm: 90
+  Hidden: true
 - StartTime: 83110
   Bpm: 90
 - StartTime: 83120.375
@@ -8185,6 +8201,9 @@ TimingPoints:
   Bpm: 90
 - StartTime: 161276
   Bpm: 90
+- StartTime: 161442.65625
+  Bpm: 90
+  Hidden: true
 - StartTime: 162110
   Bpm: 90
 - StartTime: 162115.203125
@@ -9025,6 +9044,9 @@ TimingPoints:
   Bpm: 90
 - StartTime: 166610
   Bpm: 90
+- StartTime: 166776.671875
+  Bpm: 90
+  Hidden: true
 - StartTime: 167443
   Bpm: 90
 - StartTime: 167453.4375
@@ -9097,6 +9119,9 @@ TimingPoints:
   Bpm: 90
 - StartTime: 167943
   Bpm: 90
+- StartTime: 168109.65625
+  Bpm: 90
+  Hidden: true
 - StartTime: 168442.984375
   Bpm: 90
 - StartTime: 168443
